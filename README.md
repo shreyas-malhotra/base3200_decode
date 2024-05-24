@@ -1,4 +1,4 @@
-## Usage Instructions:
+### Usage Instructions:
 
 #### 1. Clone the repository to your preferred directory:
 
